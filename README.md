@@ -1,70 +1,40 @@
-Home Services Booking Application
+Smart Expense Tracker
 
+A full-stack Expense Tracker application developed using Spring Boot, React, MySQL, Spring Security, and REST APIs. The application helps users manage their daily expenses, track spending patterns, and maintain financial records securely.
 
-
-A full-stack Home Services Booking Application developed using Spring Boot, Spring Data JPA, Spring Security, MySQL, and REST APIs. The application allows customers to browse home services, book service providers, and manage bookings securely.
-
-
-
-Features
-
-Customer Features
-
+🚀 Features
+-User Features
 User Registration and Login
-
 Secure Authentication
+Add New Expenses
+View All Expenses
+Update Expense Details
+Delete Expenses
+Categorize Expenses
+Track Spending History
 
-Browse Available Services
-
-View Service Providers
-
-Book Home Services
-
-View Booking History
-
-Admin Features
-
-Manage Services
-
-Manage Service Providers
-
-View Customer Bookings
-
-Monitor Application Data
-
-Security Features
-
+-Security Features
 Spring Security Authentication
-
 Password Encryption using BCrypt
+Secure REST APIs
 
-Role-Based Access Control
-
-Technologies Used
-
-Backend
-
+🛠 Technologies Used
+-Backend
 Java 17
-
 Spring Boot
-
 Spring Data JPA
-
 Spring Security
-
 Hibernate
-
 Maven
-
-Database
-
+-Frontend
+React.js
+React Router
+Axios
+Bootstrap
+-Database
 MySQL
-
-Tools
-
+-Tools
 Eclipse IDE
-
+VS Code
 Postman
-
-Git \& GitHub
-
+Git & GitHub
